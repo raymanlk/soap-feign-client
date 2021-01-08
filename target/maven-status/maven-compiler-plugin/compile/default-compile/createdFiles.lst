@@ -1,0 +1,10 @@
+com\soap\client\MainController.class
+com\soap\client\MySoapClientConfiguration.class
+com\soap\client\wsdl\GetCountryResponse.class
+com\soap\client\wsdl\package-info.class
+com\soap\client\wsdl\GetCountryRequest.class
+com\soap\client\wsdl\Currency.class
+com\soap\client\MyWebServiceCallInterface.class
+com\soap\client\wsdl\ObjectFactory.class
+com\soap\client\ClientApplication.class
+com\soap\client\wsdl\Country.class
